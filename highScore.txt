@@ -1,0 +1,11 @@
+5
+Niklas
+500
+Petter
+500
+Frans
+300
+Olle
+200
+Mats
+100

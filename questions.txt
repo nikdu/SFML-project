@@ -1,0 +1,26 @@
+4
+0
+Capital city of Sweden?
+Stockholm
+Malmo
+Goteborg
+Karlskrona
+0
+President of USA?
+Obama
+Clinton
+Hossein
+Bin Laden
+2
+BTH is in which city?
+Stockholm
+Kristianstad
+Karlskrona
+Malmo
+1
+Steve Jobs is famous for?
+Microsoft
+Apple
+Intel
+Samsung
+
